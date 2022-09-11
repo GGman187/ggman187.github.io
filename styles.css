@@ -1,0 +1,74 @@
+/*index.html*/
+body{
+    font-weight: normal;
+    text-align: center;
+    background-color: rgb(30, 30, 30);
+    color: rgb(168, 168, 168);
+    font-family:' Roboto', sans-serif;
+}
+h1{
+    font-size: 35px;
+}
+#GGman{
+    font-size: 35px;
+    color: rgb(168, 168, 168);
+    transition: 0.25s;    
+}
+#GGman:hover{
+    color: rgb(39, 145, 122);
+    transition: 0.25s;
+}
+.socials{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.soc_image{
+    width: 60px;
+    margin: 0 20px;
+    transition: 0.5s;
+}
+.soc_image:hover{
+    transform: scale(1.3);
+    transition: 0.5s;
+}
+#email{
+    color: rgb(67, 177, 153);
+    text-decoration: none;
+}
+#banner{
+    width: 50%;
+    min-width: 300px;
+    max-width: 500px;
+    margin: 75px auto 0 auto;
+    transition: 0.5s;
+}
+#banner:hover{
+    transform: scale(1.1);
+    transition: 0.5s;    
+}
+footer{
+    font-size: 15px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+/*404.html*/
+.home{
+    border: 5px solid rgb(55, 55, 55);
+    border-radius: 16px;
+    width: 100px;
+    height: 40px;
+    background-color: rgb(67, 177, 153);
+    font-weight: bold;
+    color: rgb(55, 55, 55);
+    transition: 0.5s;
+}
+.home:hover{
+    transform: scale(1.3);
+    transition: 0.5s;
+}
+

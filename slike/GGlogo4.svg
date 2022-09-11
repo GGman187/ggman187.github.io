@@ -1,0 +1,133 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 598 153" width="598" height="153">
+	<title>GGlogo-svg-svg</title>
+	<defs>
+		<linearGradient id="g1" x1="663.8" y1="-145.3" x2="-102.5" y2="328.8" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#2779ff"/>
+			<stop offset="1" stop-color="#2fea57"/>
+		</linearGradient>
+		<linearGradient id="g2" x1="663.8" y1="-145.3" x2="-102.5" y2="328.8" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#2779ff"/>
+			<stop offset="1" stop-color="#2fea57"/>
+		</linearGradient>
+		<linearGradient id="g3" x1="663.8" y1="-145.3" x2="-102.5" y2="328.8" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#2779ff"/>
+			<stop offset="1" stop-color="#2fea57"/>
+		</linearGradient>
+		<linearGradient id="g4" x1="663.8" y1="-145.3" x2="-102.5" y2="328.8" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#2779ff"/>
+			<stop offset="1" stop-color="#2fea57"/>
+		</linearGradient>
+		<linearGradient id="g5" x1="663.8" y1="-145.3" x2="-102.5" y2="328.8" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#2779ff"/>
+			<stop offset="1" stop-color="#2fea57"/>
+		</linearGradient>
+		<linearGradient id="g6" x1="663.8" y1="-145.3" x2="-102.5" y2="328.8" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#2779ff"/>
+			<stop offset="1" stop-color="#2fea57"/>
+		</linearGradient>
+		<linearGradient id="g7" x1="663.8" y1="-145.3" x2="-102.5" y2="328.8" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#2779ff"/>
+			<stop offset="1" stop-color="#2fea57"/>
+		</linearGradient>
+		<linearGradient id="g8" x1="663.8" y1="-145.3" x2="-102.5" y2="328.8" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#2779ff"/>
+			<stop offset="1" stop-color="#2fea57"/>
+		</linearGradient>
+		<linearGradient id="g9" x1="663.8" y1="-145.3" x2="-102.5" y2="328.8" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#2779ff"/>
+			<stop offset="1" stop-color="#2fea57"/>
+		</linearGradient>
+		<linearGradient id="g10" x1="663.8" y1="-145.3" x2="-102.5" y2="328.8" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#2779ff"/>
+			<stop offset="1" stop-color="#2fea57"/>
+		</linearGradient>
+		<linearGradient id="g11" x1="663.8" y1="-145.3" x2="-102.5" y2="328.8" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#2779ff"/>
+			<stop offset="1" stop-color="#2fea57"/>
+		</linearGradient>
+		<linearGradient id="g12" x1="663.8" y1="-145.3" x2="-102.5" y2="328.8" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#2779ff"/>
+			<stop offset="1" stop-color="#2fea57"/>
+		</linearGradient>
+		<linearGradient id="g13" x1="663.8" y1="-145.3" x2="-102.5" y2="328.8" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#2779ff"/>
+			<stop offset="1" stop-color="#2fea57"/>
+		</linearGradient>
+		<linearGradient id="g14" x1="663.8" y1="-145.3" x2="-102.5" y2="328.8" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#2779ff"/>
+			<stop offset="1" stop-color="#2fea57"/>
+		</linearGradient>
+		<linearGradient id="g15" x1="663.8" y1="-145.3" x2="-102.5" y2="328.8" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#2779ff"/>
+			<stop offset="1" stop-color="#2fea57"/>
+		</linearGradient>
+		<linearGradient id="g16" x1="631.4" y1="-143.9" x2="-132.7" y2="328.8" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#2779ff"/>
+			<stop offset="1" stop-color="#2fea57"/>
+		</linearGradient>
+		<linearGradient id="g17" x1="611.3" y1="-131.1" x2="-107.6" y2="313.7" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#2779ff"/>
+			<stop offset="1" stop-color="#2fea57"/>
+		</linearGradient>
+		<linearGradient id="g18" x1="362.2" y1="116.5" x2="446.8" y2="37.6" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#2cc292"/>
+			<stop offset="1" stop-color="#288ce3"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+		.s1 { fill: url(#g2) } 
+		.s2 { fill: url(#g3) } 
+		.s3 { fill: url(#g4) } 
+		.s4 { fill: url(#g5) } 
+		.s5 { fill: url(#g6) } 
+		.s6 { fill: url(#g7) } 
+		.s7 { fill: url(#g8) } 
+		.s8 { fill: url(#g9) } 
+		.s9 { fill: url(#g10) } 
+		.s10 { fill: url(#g11) } 
+		.s11 { fill: url(#g12) } 
+		.s12 { fill: url(#g13) } 
+		.s13 { fill: url(#g14) } 
+		.s14 { fill: url(#g15) } 
+		.s15 { fill: url(#g16) } 
+		.s16 { fill: url(#g17) } 
+		.s17 { fill: url(#g18) } 
+	</style>
+	<g id="layer2">
+		<g id="okvir">
+			<g id="kot">
+				<path id="rect922" class="s0" d="m8 4.5h175.2v8.2h-175.2z"/>
+				<path id="rect1497" class="s1" d="m8 46.8v-42.3h7.9v42.3z"/>
+			</g>
+			<g id="kot2">
+				<path id="rect1663" class="s2" d="m590 12.7h-175.2v-8.2h175.2z"/>
+				<path id="rect1665" class="s3" d="m582.1 46.8v-42.3h7.9v42.3z"/>
+			</g>
+			<g id="kot4">
+				<path id="rect1669" class="s4" d="m590 149h-175.2v-8.2h175.2z"/>
+				<path id="rect1671" class="s5" d="m590 106.7v42.3h-7.9v-42.3z"/>
+			</g>
+			<g id="kot3">
+				<path id="rect1675" class="s6" d="m8 140.8h175.2v8.2h-175.2z"/>
+				<path id="rect1677" class="s7" d="m15.9 106.7v42.3h-7.9v-42.3z"/>
+			</g>
+		</g>
+		<g id="kamera">
+			<path id="rect1805" class="s8" d="m30.3 109h79.2v8.3h-79.2z"/>
+			<path id="rect1807" class="s9" d="m30.3 55.3h79.2v8.2h-79.2z"/>
+			<path id="rect1811" class="s10" d="m30.3 117.3v-62h8.3v62z"/>
+			<path id="rect1813" class="s11" d="m101.3 117.3v-62h8.2v62z"/>
+			<path id="rect1832" class="s12" d="m43.2 37.1h46.6v8.3h-46.6z"/>
+			<path id="rect1834" class="s13" d="m89.8 37.2v26.3h-8.2v-26.3z"/>
+			<path id="rect1836" class="s14" d="m130 112.3v-52h8.3v52z"/>
+			<g id="a1888">
+				<path id="rect1838" class="s15" d="m102 71.9l28.2-11.9 2.1 6.9-28.3 11.9z"/>
+				<path id="rect1898" class="s16" d="m104 94.4l28.8 11.1-2.1 6.5-28.7-11.2z"/>
+			</g>
+		</g>
+		<g id="layer3">
+			<path id="GG MAN" fill-rule="evenodd" class="s17" d="m205.8 104.2v-20.5h-16.8v-8.4h27v32.6q-6 4.2-13.1 6.4-7.2 2.2-15.4 2.2-17.8 0-27.9-10.4-10-10.4-10-29 0-18.7 10-29 10.1-10.5 27.9-10.5 7.5 0 14.1 1.9 6.8 1.8 12.4 5.4v10.9q-5.7-4.8-12.1-7.3-6.4-2.4-13.5-2.4-13.9 0-21 7.8-6.9 7.8-6.9 23.2 0 15.3 6.9 23.1 7.1 7.8 21 7.8 5.5 0 9.7-0.9 4.3-1 7.7-2.9zm80.8 0v-20.5h-16.8v-8.4h27v32.6q-6 4.2-13.1 6.4-7.2 2.2-15.4 2.2-17.8 0-27.9-10.4-10-10.4-10-29 0-18.7 10-29 10.1-10.5 27.9-10.5 7.5 0 14.1 1.9 6.7 1.8 12.4 5.4v10.9q-5.7-4.8-12.1-7.3-6.4-2.4-13.5-2.4-14 0-21 7.8-7 7.8-7 23.2 0 15.3 7 23.1 7 7.8 21 7.8 5.4 0 9.7-0.9 4.3-1 7.7-2.9zm62.1 10.8v-76h15.3l19.4 51.7 19.5-51.7h15.3v76h-10v-66.7l-19.6 52.1h-10.3l-19.6-52.1v66.7zm80.5 0l29-76h11.7l29 76h-10.7l-7-19.5h-34.2l-6.9 19.5zm48.8-28l-14-37.9-14 37.9zm31.9 28v-76h13.9l33.7 63.6v-63.6h10v76h-13.9l-33.7-63.6v63.6z"/>
+		</g>
+	</g>
+</svg>
